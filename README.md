@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖 About Me:
 Passionate front-end developer with expertise in building modern and responsive web applications using cutting-edge technologies like React.<br>Dedicated to crafting high-quality code and delivering exceptional user experiences through clean and efficient front-end development practices.<br>Enthusiastic about continuous learning and staying up to date with the latest industry trends, always seeking new challenges and opportunities to expand my skillset.<br>Detail-oriented problem-solver who enjoys tackling complex challenges, applying critical thinking and creativity to find elegant solutions.
 
 
